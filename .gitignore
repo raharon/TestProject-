@@ -1,0 +1,4 @@
+# Generated scrape artifacts (produced by scrape_dropdowns.py at runtime)
+dropdowns.csv
+dropdowns.xlsx
+__pycache__/
